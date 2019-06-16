@@ -1,0 +1,12 @@
+[package]
+name = "phantom"
+version = "0.1.0"
+authors = ["lcnr/Bastian Kauschke <bastian_kauschke@hotmail.de>"]
+edition = "2018"
+
+[dependencies]
+cgmath = "0.17"
+env_logger = "0.6"
+glsl-to-spirv = "0.1"
+log = "0.4"
+wgpu = "0.2"
